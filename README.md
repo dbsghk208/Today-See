@@ -10,3 +10,4 @@
 - [2022.04.17](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.17.md)
 - [2022.04.18](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.18.md)
 - [2022.04.20](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.20.md)
+- [2022.04.24](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.24.md)
