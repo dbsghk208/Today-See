@@ -65,10 +65,3 @@
 
 
 
-<details>
-  <summary>객체지향방법론</summary>
-  
-    
-</details>  
-
-
