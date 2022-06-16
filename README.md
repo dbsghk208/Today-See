@@ -8,7 +8,7 @@
 <details>
   <summary>2022.04</summary>
 
-- [2022.04.15](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.15.md)
+- [2022.04.15](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.15.md)  
 - [2022.04.16](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.16.md)
 - [2022.04.17](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.17.md)
 - [2022.04.18](https://github.com/dbsghk208/Today-See/blob/main/See/2022.04.18.md)
@@ -54,9 +54,12 @@
 
 <details>
   <summary>2022.06</summary>
-- []()
   
-    
+- [2022.06.05](https://github.com/dbsghk208/Today-See/blob/main/See/2022.06/2022.06.05.md)  
+- [2022.06.13](https://github.com/dbsghk208/Today-See/blob/main/See/2022.06/2022.06.13.md)  
+- [2022.06.14](https://github.com/dbsghk208/Today-See/blob/main/See/2022.06/2022.06.14.md)  
+- [2022.06.15](https://github.com/dbsghk208/Today-See/blob/main/See/2022.06/2022.06.15.md)  
+
 </details>  
 
 
