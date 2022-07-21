@@ -72,7 +72,7 @@
 - [2022.07.16](https://github.com/dbsghk208/Today-See/blob/main/See/2022.07/2022.07.16.md)
 - [2022.07.17](https://github.com/dbsghk208/Today-See/blob/main/See/2022.07/2022.07.17.md)
 - [2022.07.18](https://github.com/dbsghk208/Today-See/blob/main/See/2022.07/2022.07.18.md)
-
+- [2022.07.19](https://github.com/dbsghk208/Today-See/blob/main/See/2022.07/2022.07.19.md)
 </details>  
 
 
